@@ -1,0 +1,1 @@
+<?php echo $email_body; ?><?php /**PATH F:\xampp\htdocs\new_file\AuctionPro-Files\project\resources\views/admin/email/mailbody.blade.php ENDPATH**/ ?>
